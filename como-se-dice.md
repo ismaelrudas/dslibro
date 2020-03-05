@@ -18,17 +18,17 @@
 * TABS (google translate: pestañas) Pestañas
 * Integrated Development Environment (IDE) Ambiente de desarrolo integrado
 * indentation Sangrado or Sangría (anyway)
-* key bindings Combinación de teclas (ref. keyboard shortcuts)
+* key bindings Combinación de teclas (ref. keyboard shortcuts) ok!
 * boxplot (r4ds: "diagrama de cajas ( _boxplot_ en inglés)"") ok!
 * pipes (r4ds: usa _pipes_ o Pipes; no traduce) Tuberías
 * keyboard shortcut (r4ds: atajo del teclado) ok
-* File (r4ds: "Archivo ( _File_)") 
+* File (r4ds: "Archivo ( _File_)") ok!
 * New File (r4ds: "Nuevo Archivo ( _New File_ )") Archivo Nuevo
 * backup (r4ds: respaldar) Copia de seguridad
 * EDA (r4ds: Análisis exploratorio de datos o EDA (por sus siglas en inglés exploratory data * analysis) entonces usan _EDA_ throughout OK
 * tidy data (r4ds: datos ordenados) Ordenamiento de datos
 * functions (r4ds: funciones)
-* tibbles (r4ds: usa tibbles; no traduce) Tbla
+* tibbles (r4ds: usa tibbles; no traduce) Tabla
 * R software environment Software R
 * R environment Ambiente de R
 * character strings*  Cadena de caracteres
